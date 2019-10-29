@@ -1,4 +1,4 @@
-# Socket Queues:
+# Socket Tickets:
 
 socket application for manage tickets with socket.io
 
